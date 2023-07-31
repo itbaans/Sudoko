@@ -1,7 +1,5 @@
 # Sudoku Console Game
 
-![Sudoku Logo](sudoku_logo.png)
-
 ## Overview
 
 This project is a console-based Sudoku game implemented as part of my first semester project. The game allows users to play Sudoku on an empty board or a semi-filled board by providing inputs through the console. Additionally, I went beyond the requirements and implemented a rudimentary algorithm that attempts to solve the Sudoku board, filling in the remaining empty cells randomly until a valid solution is found.
